@@ -1,4 +1,4 @@
-# McKinsey Data Scientist, Climate Analytics Coding Sample
+# McKinsey & Company Data Scientist, Climate Analytics Coding Sample
 
 **Riley X. Brady**
 
@@ -7,6 +7,20 @@
 ## Data
 
 The data used in this sample is available freely through the [Earth System Grid Federation](https://www.earthsystemgrid.org/dataset/ucar.cgd.ccsm4.CESM_CAM5_BGC_LE.ocn.proc.monthly_ave.html?df=true). You can also download the files used here directly from Dropbox.
+
+## Run
+
+First install the conda environment:
+
+```bash
+conda env update -f environment.yml
+```
+
+Then run
+
+```bash
+python submission.py
+```
 
 ## Background
 
