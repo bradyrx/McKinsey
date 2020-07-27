@@ -1,0 +1,13 @@
+name: mckinsey-position-brady
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - cftime
+  - dask
+  - eofs
+  - geopandas
+  - netcdf4
+  - numpy
+  - regionmask
+  - xarray
